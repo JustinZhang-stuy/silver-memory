@@ -6,20 +6,20 @@ HW05 - Stuylin'
 */
 
 h1 {
-	color: blue
+	color: blue;
 	font-size: 300%
 }
 
 h2 {
-	color: red
+	color: red;
 	font-size: 150%
 }
 
 link {
-	color: green
+	color: green;
 	font-weight: 200%
 }
 
 body {
-	background-color: black
+	background-color: black;
 }
