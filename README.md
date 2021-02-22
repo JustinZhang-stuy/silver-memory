@@ -1,4 +1,4 @@
 ## website:
 https://justinzhang-stuy.github.io/web/
 ## HW05:
-files have been named talk.html and main.css. talk.html can be viewed here: https://justinzhang-stuy.github.io/web/talk.html
+Currently located at talk.html and main.css. On display here: https://justinzhang-stuy.github.io/web/talk.html
